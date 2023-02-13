@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin
 =============================================================================================================================
 
 Software Developer
 ------------------
 
-Kevin is an aspiring Software Developer looking to get in the tech industry.
+Kevin is an Software Developer looking to get in the tech industry.
 
 * 🌍  I'm based in New York, NY
 * 🧠  I'm learning everything JavaScript
