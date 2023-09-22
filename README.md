@@ -4,10 +4,10 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Developer
 ------------------
 
-I'm a Software Developer looking to get in the tech industry.
+I'm a Software Developer/GameDev looking to get in the tech industry.
 
 * 🌍  I'm based in New York, NY
-* 🧠  I'm learning everything JavaScript
+* 🧠  I'm learning everything JavaScript and C++.
 
 ### Skills
 
