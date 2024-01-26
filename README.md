@@ -4,7 +4,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Developer
 ------------------
 
-I'm a Software Developer/GameDev looking to get in the tech industry.
+I'm a Software Developer/GameDev.
 
 * 🌍  I'm based in New York, NY
 * 🧠  I'm learning everything JavaScript and C++.
@@ -28,6 +28,5 @@ I'm a Software Developer/GameDev looking to get in the tech industry.
 <p align="left"> 
 <a href="https://www.github.com/2dkn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/2dkn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.youtube.com/@2dkn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
 <a href="https://www.threads.net/@2.d.k.n" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </a>
 </p>
